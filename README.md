@@ -36,9 +36,12 @@ struct ContentView: View {
 
 SwiftUINetworkMonitor/
 ├── Sources/
-│   └── NetworkMonitor.swift
+│   └── SwiftUINetworkMonitor/
+│       └── NetworkMonitor.swift
+├── Package.swift
 ├── README.md
 └── .gitignore
+
 
 
 ✅ Requirements
@@ -46,3 +49,11 @@ SwiftUINetworkMonitor/
 iOS 14+
 Swift 5+
 SwiftUI
+
+
+🤝 Contribution
+Feel free to open an issue, fork the repo, or submit a PR.
+
+
+🚀 Author
+Made with ❤️ by Kiran Jadhav
